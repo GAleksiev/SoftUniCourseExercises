@@ -217,22 +217,5 @@
             Console.WriteLine($"Discount for this price = {discountPercent}% ({discountValue})");
             Console.WriteLine($"Total = {total}");
         }
-
-
-        //static void IfElseIfElseSample() {
-        //    Console.WriteLine("----- 'if...elseif...else' -----");
-        //    Console.WriteLine("Example of determining the state of ");
-        //    Console.WriteLine("Sometimes more than two conditions must be checked and different code executed for each one of them");
-        //    Console.WriteLine("In such cases we can use 'if' with combination with 'elseif' and eventually 'else'");
-        //    Console.WriteLine("For example, if we need to determine whether a value of a temperature is in lower range, warning range or critical range");
-        //    //Console.WriteLine("The execution of 'if'")
-        //    Console.WriteLine("if (price > 100) {");
-        //    Console.WriteLine("    discount = 15;");
-        //    Console.WriteLine("} else {");
-        //    Console.WriteLine("    discount = 3;");
-        //    Console.WriteLine("}");
-        //    Console.WriteLine("Often the if...else is used to set the value of a variable that is used later in the code");
-        //    Console.WriteLine("The variable is declared before the 'if' and used after the 'if...else' ends its execution");
-        //}
     }
 }
