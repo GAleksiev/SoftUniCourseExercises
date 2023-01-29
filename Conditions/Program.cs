@@ -60,6 +60,9 @@
                 case "7":
                     IfElseWithTernaryConditionalOperatorSample();
                     break;
+                case "7e":
+                    IfElseWithTernaryConditionalOperatorExercise();
+                    break;
                 case "8":
                     SwitchSample();
                     break;
@@ -103,6 +106,11 @@
 
             // TODO: Receive fruit name from the console
             //       If it is "cherry", show "Sweet"
+
+            // TODO: Sice conditions return boolean values, they can be assigned to bool variables like:
+            //       bool isPriceGreaterThan10 = price > 10; // isPriceGreaterThan10 will become the result of the comparison 'price > 10' - true if greater than 10 and false if not greater than 10
+            //       Ask the user to enter its age and set a bool variable named isAllowed to the result of the comparison of the age with 18 (greater than or equal to)
+            //       Show the bool variable value 
         }
 
         static void IfElseSample() {
@@ -374,6 +382,11 @@
             decimal price = decimal.Parse(Console.ReadLine());
             decimal discountPercent = price > 100 ? 7 : 2;
             Console.WriteLine($"The discount for price {price} is {discountPercent}%");
+        }
+
+        static void IfElseWithTernaryConditionalOperatorExercise() {
+            // TODO: Ask the user for its age and set string value to "Allowed" if the age is grater than or equal to 18 and "Not allowed" otherwise
+            //       Use ternary operator
         }
 
         static void SwitchSample() {
