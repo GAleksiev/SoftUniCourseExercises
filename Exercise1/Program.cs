@@ -1,4 +1,4 @@
-﻿namespace ConsoleApp2 {
+﻿namespace Exercise1 {
     internal class Program {
         static void Main(string[] args) {
             //__________Uprajnenie 1__________//
