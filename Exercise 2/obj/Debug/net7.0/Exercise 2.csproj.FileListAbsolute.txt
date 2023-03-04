@@ -1,0 +1,15 @@
+D:\C#projects\Softuni\Exercise 2\bin\Debug\net7.0\Exercise 2.exe
+D:\C#projects\Softuni\Exercise 2\bin\Debug\net7.0\Exercise 2.deps.json
+D:\C#projects\Softuni\Exercise 2\bin\Debug\net7.0\Exercise 2.runtimeconfig.json
+D:\C#projects\Softuni\Exercise 2\bin\Debug\net7.0\Exercise 2.dll
+D:\C#projects\Softuni\Exercise 2\bin\Debug\net7.0\Exercise 2.pdb
+D:\C#projects\Softuni\Exercise 2\obj\Debug\net7.0\Exercise 2.csproj.AssemblyReference.cache
+D:\C#projects\Softuni\Exercise 2\obj\Debug\net7.0\Exercise 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#projects\Softuni\Exercise 2\obj\Debug\net7.0\Exercise 2.AssemblyInfoInputs.cache
+D:\C#projects\Softuni\Exercise 2\obj\Debug\net7.0\Exercise 2.AssemblyInfo.cs
+D:\C#projects\Softuni\Exercise 2\obj\Debug\net7.0\Exercise 2.csproj.CoreCompileInputs.cache
+D:\C#projects\Softuni\Exercise 2\obj\Debug\net7.0\Exercise 2.dll
+D:\C#projects\Softuni\Exercise 2\obj\Debug\net7.0\refint\Exercise 2.dll
+D:\C#projects\Softuni\Exercise 2\obj\Debug\net7.0\Exercise 2.pdb
+D:\C#projects\Softuni\Exercise 2\obj\Debug\net7.0\Exercise 2.genruntimeconfig.cache
+D:\C#projects\Softuni\Exercise 2\obj\Debug\net7.0\ref\Exercise 2.dll
