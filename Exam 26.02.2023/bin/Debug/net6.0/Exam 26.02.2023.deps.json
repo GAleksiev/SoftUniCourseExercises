@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Exam 26.02.2023/1.0.0": {
+        "runtime": {
+          "Exam 26.02.2023.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exam 26.02.2023/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
